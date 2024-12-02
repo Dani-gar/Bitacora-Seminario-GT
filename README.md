@@ -1,6 +1,6 @@
 # Bitacora-Seminario-GT
 bitacora de las clases de seminario de gestion tecnologica 2024-2
-Aquí tienes el código listo y organizado para que lo subas a **GitHub Pages**. Sigue las instrucciones que te di anteriormente y usa este código:
+
 
 ---
 
